@@ -1,2 +1,2 @@
-# MachineLearning-NeuralNetworks
-Pattern Recognition Techniques. In this case applied to handwritten digits recognition.
+# digit_recognition
+Hand-written digit recognition with Matlab.
